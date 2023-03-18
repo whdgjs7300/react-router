@@ -2,4 +2,7 @@ RESTful Routes
 URL 디자인 패턴!
 
 useSearchParakms : url 쿼리값
-추가적인 조건을 쓸때 ? 뒤에값
+추가적인 조건을 쓸때 ? 뒤에값 
+
+Redirect (페이지를 보호하는 법)
+ex) 로그인한 유저만 볼수 있는 페이지 - 경로를 상황에 맞쳐 보여주기
