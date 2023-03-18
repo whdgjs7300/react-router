@@ -1,2 +1,5 @@
 RESTful Routes
 URL 디자인 패턴!
+
+useSearchParakms : url 쿼리값
+추가적인 조건을 쓸때 ? 뒤에값

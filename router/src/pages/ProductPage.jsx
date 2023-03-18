@@ -1,5 +1,9 @@
+import { useSearchParams } from "react-router-dom";
+
 
 const ProductPage = () => {
+    let [query, setQuery] = useSearchParams()
+    console.log(query.get("q"))
 
     return (  
         <div>
